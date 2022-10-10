@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.reactnativegoogleauth.app-mergeDebugResources-26:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/kennedymwangi/.gradle/caches/transforms-3/7e85cf2b012bbc6c3db0f3baad8fcdb1/transformed/appcompat-1.4.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    }
+                }
+            ]
+        }
+    ]
+}

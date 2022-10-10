@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/988094c162a8b779e94097800cc354ee/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5bdfad030f1fc31fdf334ec4440fbc1f/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:17:1-73:12
+MERGED from [:react-native-google-signin_google-signin] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/d55c9e5c2967be570bfb79bd2ab1841d/transformed/jetified-react-native-0.70.2-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/53a1ea4fb511bbcf71fcfa02adc0e65c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-engine:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/8e044072b69725ea55a75ce9e53b5428/transformed/jetified-hermes-engine-0.70.2-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/10f79e81d7ef672f6ec0e39ced65408e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/49c2062be45c987e71bf38da0fa8ad94/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/61653b8be4adcc5bfb094b5b3c96924c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8d63dd6af1f600dd7e97711c98d9f954/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/03d9790b424c166e79d9ab81020a8033/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8335a27f1f57eaf8aae03e55151b06c2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2bde3236fcea2b14cdf1fca50fe13909/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/226b9af3f405dfcb61ec1ce7c5b0aa4d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80a280f0f0c9e860472c2db2ba851263/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b792443cbac4d3ddd5004f01c4370b04/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/87702dada326185e525f3b3d2410608a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/kennedymwangi/.gradle/caches/transforms-3/f4346150588e3178947393d6e0eddf26/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d2ebc9bfbf0a14e4ba03e7b906e60b8c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80ee328b68dd32b3a6c0d96c5190a027/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/177d8095a9ed0925391d7b9e25b13e85/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c72632d6d8abbf9aa4520259bf57f09/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/7e85cf2b012bbc6c3db0f3baad8fcdb1/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/477fde3f21664be4e26d7ee9ed3b2f62/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/5a8948411aa7587db951fc24fe713c42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a28a03ac6b4c0f113626fac4a1e62870/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/15d302f83f3a4ad3e2db6c89a33d89df/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bfacc5d80b8169252f74bd345a864453/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13cc4cf0028d3f92f568849484f6f63a/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c4d6892bc55298428277d937ba403d7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e49ca0ae644ec2626055233cb53ac653/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2a42b6175203e8def1014320f113953b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1d26549b57aeb47b0827e2f55bc1e9e6/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d4029cefcce549ede8ab1c0d6d425c92/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d610917577e02354eb4ff199a543f32/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9c85ffb6ef93b2b8ffd7cc0ed59bfebb/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/kennedymwangi/.gradle/caches/transforms-3/e313e285738c167974dfd90e2c11f707/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/c3e3b96b14b5ebe045627aee5e3813e7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kennedymwangi/.gradle/caches/transforms-3/695225a4faf26b4029f030acb6ca678f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/kennedymwangi/.gradle/caches/transforms-3/271afc6857c2158cf10c73df963c1060/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/9cf35e552b9f53cf0b1ed080da84afd9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8ab6eeab32ccde9101f68846b5ca0231/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/32f8f6c61e552e11c42c94e96ff0b04a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13081d30218b9b66013bcf5bf874ec35/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b2412ec6fe933e221eb9ad6b9d3eb979/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/79bed1c9909104d8a1147a75ad5eb74f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/ec6dcc2b9482feebdb50a3009e908c8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1ef5c99cd83aa670e9503a355c0dc2cb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d9d771413f3ed044c0c46ac02d892ff/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/6a8969423954daff40a5f22c3e2e5697/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9a52033fd6942da77a8a32a07b499ff4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bddedc54397d4d68b63fcc004da91ef5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/28aa6e18404d5c44489961c9675909f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/03ba4c264a1a3116e729a8f8c2fbd8ae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8debb4477b87958daf9257129040bf4a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/eae0c6c882b42a5a42bbb4f2f518630a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/fb5aefdd22a08c29f32494dc2b2c4ad8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/16cd2327abd54ee3d866f3ce481fcf89/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.facebook.react:react-native:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/d55c9e5c2967be570bfb79bd2ab1841d/transformed/jetified-react-native-0.70.2-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/d55c9e5c2967be570bfb79bd2ab1841d/transformed/jetified-react-native-0.70.2-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/10f79e81d7ef672f6ec0e39ced65408e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/10f79e81d7ef672f6ec0e39ced65408e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/kennedymwangi/.gradle/caches/transforms-3/f4346150588e3178947393d6e0eddf26/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/kennedymwangi/.gradle/caches/transforms-3/f4346150588e3178947393d6e0eddf26/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d610917577e02354eb4ff199a543f32/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d610917577e02354eb4ff199a543f32/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/c3e3b96b14b5ebe045627aee5e3813e7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/c3e3b96b14b5ebe045627aee5e3813e7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9a52033fd6942da77a8a32a07b499ff4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9a52033fd6942da77a8a32a07b499ff4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnativegoogleauth.MainActivity
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/988094c162a8b779e94097800cc354ee/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/988094c162a8b779e94097800cc354ee/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5bdfad030f1fc31fdf334ec4440fbc1f/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5bdfad030f1fc31fdf334ec4440fbc1f/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [:react-native-google-signin_google-signin] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/d55c9e5c2967be570bfb79bd2ab1841d/transformed/jetified-react-native-0.70.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/d55c9e5c2967be570bfb79bd2ab1841d/transformed/jetified-react-native-0.70.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/53a1ea4fb511bbcf71fcfa02adc0e65c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/53a1ea4fb511bbcf71fcfa02adc0e65c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-engine:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/8e044072b69725ea55a75ce9e53b5428/transformed/jetified-hermes-engine-0.70.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.2] /Users/kennedymwangi/.gradle/caches/transforms-3/8e044072b69725ea55a75ce9e53b5428/transformed/jetified-hermes-engine-0.70.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/10f79e81d7ef672f6ec0e39ced65408e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/10f79e81d7ef672f6ec0e39ced65408e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/49c2062be45c987e71bf38da0fa8ad94/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/49c2062be45c987e71bf38da0fa8ad94/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/61653b8be4adcc5bfb094b5b3c96924c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/61653b8be4adcc5bfb094b5b3c96924c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8d63dd6af1f600dd7e97711c98d9f954/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8d63dd6af1f600dd7e97711c98d9f954/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/03d9790b424c166e79d9ab81020a8033/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/03d9790b424c166e79d9ab81020a8033/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8335a27f1f57eaf8aae03e55151b06c2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8335a27f1f57eaf8aae03e55151b06c2/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2bde3236fcea2b14cdf1fca50fe13909/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2bde3236fcea2b14cdf1fca50fe13909/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/226b9af3f405dfcb61ec1ce7c5b0aa4d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/226b9af3f405dfcb61ec1ce7c5b0aa4d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80a280f0f0c9e860472c2db2ba851263/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80a280f0f0c9e860472c2db2ba851263/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b792443cbac4d3ddd5004f01c4370b04/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b792443cbac4d3ddd5004f01c4370b04/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/87702dada326185e525f3b3d2410608a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/87702dada326185e525f3b3d2410608a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/kennedymwangi/.gradle/caches/transforms-3/f4346150588e3178947393d6e0eddf26/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/kennedymwangi/.gradle/caches/transforms-3/f4346150588e3178947393d6e0eddf26/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d2ebc9bfbf0a14e4ba03e7b906e60b8c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d2ebc9bfbf0a14e4ba03e7b906e60b8c/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80ee328b68dd32b3a6c0d96c5190a027/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/80ee328b68dd32b3a6c0d96c5190a027/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/177d8095a9ed0925391d7b9e25b13e85/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/177d8095a9ed0925391d7b9e25b13e85/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c72632d6d8abbf9aa4520259bf57f09/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c72632d6d8abbf9aa4520259bf57f09/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/7e85cf2b012bbc6c3db0f3baad8fcdb1/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/7e85cf2b012bbc6c3db0f3baad8fcdb1/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/477fde3f21664be4e26d7ee9ed3b2f62/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/477fde3f21664be4e26d7ee9ed3b2f62/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/5a8948411aa7587db951fc24fe713c42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kennedymwangi/.gradle/caches/transforms-3/5a8948411aa7587db951fc24fe713c42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a28a03ac6b4c0f113626fac4a1e62870/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a28a03ac6b4c0f113626fac4a1e62870/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/15d302f83f3a4ad3e2db6c89a33d89df/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/15d302f83f3a4ad3e2db6c89a33d89df/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bfacc5d80b8169252f74bd345a864453/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bfacc5d80b8169252f74bd345a864453/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13cc4cf0028d3f92f568849484f6f63a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13cc4cf0028d3f92f568849484f6f63a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c4d6892bc55298428277d937ba403d7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/5c4d6892bc55298428277d937ba403d7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e49ca0ae644ec2626055233cb53ac653/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e49ca0ae644ec2626055233cb53ac653/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2a42b6175203e8def1014320f113953b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/2a42b6175203e8def1014320f113953b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1d26549b57aeb47b0827e2f55bc1e9e6/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1d26549b57aeb47b0827e2f55bc1e9e6/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d4029cefcce549ede8ab1c0d6d425c92/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/d4029cefcce549ede8ab1c0d6d425c92/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d610917577e02354eb4ff199a543f32/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d610917577e02354eb4ff199a543f32/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9c85ffb6ef93b2b8ffd7cc0ed59bfebb/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9c85ffb6ef93b2b8ffd7cc0ed59bfebb/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/kennedymwangi/.gradle/caches/transforms-3/e313e285738c167974dfd90e2c11f707/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/kennedymwangi/.gradle/caches/transforms-3/e313e285738c167974dfd90e2c11f707/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/c3e3b96b14b5ebe045627aee5e3813e7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/c3e3b96b14b5ebe045627aee5e3813e7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kennedymwangi/.gradle/caches/transforms-3/695225a4faf26b4029f030acb6ca678f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kennedymwangi/.gradle/caches/transforms-3/695225a4faf26b4029f030acb6ca678f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kennedymwangi/.gradle/caches/transforms-3/271afc6857c2158cf10c73df963c1060/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kennedymwangi/.gradle/caches/transforms-3/271afc6857c2158cf10c73df963c1060/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/9cf35e552b9f53cf0b1ed080da84afd9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/9cf35e552b9f53cf0b1ed080da84afd9/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8ab6eeab32ccde9101f68846b5ca0231/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8ab6eeab32ccde9101f68846b5ca0231/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/32f8f6c61e552e11c42c94e96ff0b04a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/32f8f6c61e552e11c42c94e96ff0b04a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13081d30218b9b66013bcf5bf874ec35/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/13081d30218b9b66013bcf5bf874ec35/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b2412ec6fe933e221eb9ad6b9d3eb979/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/b2412ec6fe933e221eb9ad6b9d3eb979/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/79bed1c9909104d8a1147a75ad5eb74f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/79bed1c9909104d8a1147a75ad5eb74f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/kennedymwangi/.gradle/caches/transforms-3/6609e70deb3891d019f426fa68c71dda/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/ec6dcc2b9482feebdb50a3009e908c8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/ec6dcc2b9482feebdb50a3009e908c8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1ef5c99cd83aa670e9503a355c0dc2cb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/1ef5c99cd83aa670e9503a355c0dc2cb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d9d771413f3ed044c0c46ac02d892ff/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/1d9d771413f3ed044c0c46ac02d892ff/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/6a8969423954daff40a5f22c3e2e5697/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/6a8969423954daff40a5f22c3e2e5697/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9a52033fd6942da77a8a32a07b499ff4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kennedymwangi/.gradle/caches/transforms-3/9a52033fd6942da77a8a32a07b499ff4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bddedc54397d4d68b63fcc004da91ef5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/bddedc54397d4d68b63fcc004da91ef5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/28aa6e18404d5c44489961c9675909f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/28aa6e18404d5c44489961c9675909f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/03ba4c264a1a3116e729a8f8c2fbd8ae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kennedymwangi/.gradle/caches/transforms-3/03ba4c264a1a3116e729a8f8c2fbd8ae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8debb4477b87958daf9257129040bf4a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8debb4477b87958daf9257129040bf4a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/eae0c6c882b42a5a42bbb4f2f518630a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/eae0c6c882b42a5a42bbb4f2f518630a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/fb5aefdd22a08c29f32494dc2b2c4ad8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kennedymwangi/.gradle/caches/transforms-3/fb5aefdd22a08c29f32494dc2b2c4ad8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/16cd2327abd54ee3d866f3ce481fcf89/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/16cd2327abd54ee3d866f3ce481fcf89/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kennedymwangi/.gradle/caches/transforms-3/8b5bb1cbb88618ed759add4842d81df6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/kennedymwangi/Documents/others/technicals/react_native_google_auth/project/reactnativegoogleauth/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/kennedymwangi/.gradle/caches/transforms-3/5c081babb8931b0f89cf8530d50b2768/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:68:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/kennedymwangi/.gradle/caches/transforms-3/0e7a898c1c60c63cd57216e28eea1ecf/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/kennedymwangi/.gradle/caches/transforms-3/cddad879763a17970da2a1c8953638b1/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/kennedymwangi/.gradle/caches/transforms-3/d39950f353eca8b2a994554368c253b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/kennedymwangi/.gradle/caches/transforms-3/a17c2404ce40374c8fcecae708f04c35/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/c2ba600f9d4ea269babc6c101f3a487a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kennedymwangi/.gradle/caches/transforms-3/e7329afe725e7a1e77239bc67cfdf357/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kennedymwangi/.gradle/caches/transforms-3/f8f94a800dd4e49a16bd107da29a5f9c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
